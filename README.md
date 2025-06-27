@@ -3,11 +3,11 @@
 - Context:  By using linear regression with backward selection on lagged macroeconomic variables, we will predict U-3 Unemployment Rate for December 2024 to help policymakers make prediction and identify factors that affect the unemployment rate
 - Approach:
 Linear Regression with backward selection and lagged variables on macroeconomic indicators.
-Gaps Addressed by Our Model: 
-● Employs backward elimination to refine predictors and improve regression model accuracy.
-● Incorporates lagged variables for key predictors to handle autocorrelation. 
-● Create dummy variables for years to capture yearly effects.
-● Trained on more recent data
+Gaps Addressed by Our Model:
+- Employs backward elimination to refine predictors and improve regression model accuracy.
+- Incorporates lagged variables for key predictors to handle autocorrelation.
+- Create dummy variables for years to capture yearly effects.
+- Trained on more recent data
 
 ## 📁 Dataset
 ![image](https://github.com/user-attachments/assets/b4c1681b-d567-4ddd-8618-1ec2987b443b)
